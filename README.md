@@ -1,7 +1,5 @@
 # GPOOutline
 
-# GPOOutline
-
 ### The Shape of Your Group Policy
 
 A single-file, read-only PowerShell script that documents how Group Policy is configured across an Active Directory forest in one run, and delivers it as one self-contained HTML report a non-specialist can actually read.
